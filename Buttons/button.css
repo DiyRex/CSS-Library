@@ -1,0 +1,97 @@
+:root {
+    --blue-btn-color:#1C82AD;
+    --red-btn-color:#C21010;
+    --yellow-btn-color:#FFEA20;
+    --green-btn-color:#379237;
+}
+
+/* Button Styles */
+
+/* Blue Box Buttons */
+
+.blue-btn-fill{
+    background-color: var(--blue-btn-color);
+    border-radius: 5px;
+    border: none;
+    padding: 10px 30px 10px 30px;
+}
+
+.blue-btn-outline{
+    background-color: transparent;
+    border: 2px solid var(--blue-btn-color);
+    border-radius: 5px;
+    padding: 8px 28px 8px 28px;
+}
+
+.blue-btn-outline:active, .blue-btn-fill:active{
+    transform: scale(.98);
+}
+
+/* Red Box Buttons */
+
+.red-btn-fill{
+    background-color: var(--red-btn-color);
+    border-radius: 5px;
+    border: none;
+    padding: 10px 30px 10px 30px;
+}
+.red-btn-outline{
+    background-color: transparent;
+    border: 2px solid var(--red-btn-color);
+    border-radius: 5px;
+    padding: 8px 28px 8px 28px;
+}
+.red-btn-outline:active, .red-btn-fill:active{
+    transform: scale(.98);
+}
+
+/* Yellow Box Buttons */
+
+.yellow-btn-fill{
+    background-color: var(--yellow-btn-color);
+    border-radius: 5px;
+    border: none;
+    padding: 10px 30px 10px 30px;
+}
+.yellow-btn-outline{
+    background-color: transparent;
+    border: 2px solid var(--yellow-btn-color);
+    border-radius: 5px;
+    padding: 8px 28px 8px 28px;
+}
+.yellow-btn-outline:active, .yellow-btn-fill:active{
+    transform: scale(.98);
+}
+
+/* green Box Buttons */
+
+.green-btn-fill{
+    background-color: var(--green-btn-color);
+    border-radius: 5px;
+    border: none;
+    padding: 10px 30px 10px 30px;
+}
+.green-btn-outline{
+    background-color: transparent;
+    border: 2px solid var(--green-btn-color);
+    border-radius: 5px;
+    padding: 8px 28px 8px 28px;
+}
+.green-btn-outline:active, .green-btn-fill:active{
+    transform: scale(.98);
+}
+
+/* Text Formatting */
+
+.text-white {
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.text-black {
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
