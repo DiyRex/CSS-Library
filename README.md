@@ -1,3 +1,38 @@
+# CSS Button Library
+
+<br>
+
+## Usage
+
+Via CDN :
+<br>
+```sh
+<link rel="stylesheet" type="text/css" href="https://diyrex.github.io/CSS-Library/button.css">
+```
+<br>
+Via CSS File :
+<br>
+<br>
+
+```sh
+Download the css file and include it in your project
+```
+<br>
+
+## Example
+
+```sh
+<button class="btn bg-darkred">Click me</button>
+<a href="#" class="btn bg-darkred">Click me</a>
+```
+<br>
+<br>
+
+## Color Table
+
+<br>
+
+
 | Color | Hexcode | Color Name | Classname |
 | --- | --- | --- | --- |
 | ![#000000](https://via.placeholder.com/15/000000/000000?text=+) | #000000 | Black | bg-black |
