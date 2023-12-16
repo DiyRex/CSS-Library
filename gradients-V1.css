@@ -1,0 +1,31 @@
+:root {
+    --gradient-direction: to right;
+    --size-a: 0%;
+    --size-b: 100%;
+  }
+
+  .g2r {
+    --gradient-direction: to right;
+  }
+  
+  .g2b {
+    --gradient-direction: to bottom;
+  }
+  
+  .g2l {
+    --gradient-direction: to left;
+  }
+  
+  .g2t {
+    --gradient-direction: to top;
+  }
+
+.gd-witching-hour{
+    background: linear-gradient(var(--gradient-direction), #c31432 var(--size-a) , #240b36 var(--size-b));
+}
+.gd-piggy-pink{
+    background: linear-gradient(var(--gradient-direction), #ee9ca7 var(--size-a) , #ffdde1 var(--size-b));
+}
+.gd-emarald-water{
+    background: linear-gradient(var(--gradient-direction), #348F50 var(--size-a) , #56B4D3 var(--size-b));
+}
