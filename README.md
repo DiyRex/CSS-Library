@@ -1,7 +1,9 @@
 # CSS-Library
 Collection of my own CSS components
 
-## Buttons
+
+
+## Background Colors
 | Color | Hexcode | Color Name | Classname |
 | --- | --- | --- | --- |
 | ![#000000](https://via.placeholder.com/15/000000/000000?text=+) | #000000 | Black | bg-black |
@@ -690,3 +692,190 @@ Collection of my own CSS components
 | ![#FEFCFF](https://via.placeholder.com/15/FEFCFF/FEFCFF?text=+) | #FEFCFF | Milk White | bg-milk-white |
 | ![#FFFEFA](https://via.placeholder.com/15/FFFEFA/FFFEFA?text=+) | #FFFEFA | Half White | bg-half-white |
 | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF?text=+) | #FFFFFF | White | bg-white |
+
+
+## Gradients
+
+| Gradient                                                                                                     | Name          | Classname          |
+| ------------------------------------------------------------------------------------------------------------ | ------------- | ------------------ |
+| ![Warm Flame](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Warm%20Flame.png)       | Warm Flame    | .gd--warm-flame    |
+| ![Night Fade](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Night%20Fade.png)       | Night Fade    | .gd--night-fade    |
+| ![Spring Warmth](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Spring%20Warmth.png) | Spring Warmth | .gd--spring-warmth |
+| ![Juicy Peach](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Juicy%20Peach.png)     | Juicy Peach   | .gd--juicy-peach   |
+| ![Young Passion](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Young%20Passion.png) | Young Passion | .gd--young-passion |
+| ![Lady Lips](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Lady%20Lips.png)         | Lady Lips     | .gd--lady-lips     |
+| ![Sunny Morning](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Sunny%20Morning.png) | Sunny Morning | .gd--sunny-morning |
+| ![RainyAshville](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Rainy%20Ashville.png) | RainyAshville | .gd--rainy-ashville |
+| ![Frozen Dreams](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Frozen%20Dreams.png) | Frozen Dreams | .gd--frozen-dreams |
+| ![Winter Neva](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Winter%20Neva.png) | Winter Neva | .gd--winter-neva |
+| ![Dusty Grass](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Dusty%20Grass.png) | Dusty Grass | .gd--dusty-grass |
+| ![Tempting Azure](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Tempting%20Azure.png) | Tempting Azure | .gd--tempting-azure |
+| ![Heavy Rain](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Heavy%20Rain.png) | Heavy Rain | .gd--heavy-rain |
+| ![Amy Crisp](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Amy%20Crisp.png) | Amy Crisp | .gd--amy-crisp |
+| ![Mean Fruit](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Mean%20Fruit.png) | Mean Fruit | .gd--mean-fruit |
+| ![Deep Blue](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Deep%20Blue.png) | Deep Blue | .gd--deep-blue |
+| ![Ripe Malinka](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Ripe%20Malinka.png) | Ripe Malinka | .gd--ripe-malinka |
+| ![CloudyKnoxville](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Cloudy%20Knoxville.png) | Cloudy Knoxville | .gd--cloudy-knoxville |
+| ![Malibu Beach](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Malibu%20Beach.png) | Malibu Beach | .gd--malibu-beach |
+| ![New Life](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/New%20Life.png) | New Life | .gd--new-life |
+| ![True Sunset](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/True%20Sunset.png) | True Sunset | .gd--true-sunset |
+| ![Morpheus Den](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Morpheus%20Den.png) | Morpheus Den | .gd--morpheus-den |
+| ![Rare Wind](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Rare%20Wind.png) | Rare Wind | .gd--rare-wind |
+| ![Near Moon](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Near%20Moon.png) | Near Moon | .gd--near-moon |
+| ![Wild Apple](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Wild%20Apple.png) | Wild Apple | .gd--wild-apple |
+| ![Saint Petersburg](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Saint%20Petersburg.png) | Saint Petersburg | .gd--saint-petersburg |
+| ![Arielle's Smile](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Arielle's%20Smile.png) | Arielle's Smile | .gd--arielle's-smile |
+| ![Plum Plate](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Plum%20Plate.png) | Plum Plate | .gd--plum-plate |
+| ![EverlastingSky](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Everlasting%20Sky.png) | Everlasting Sky | .gd--everlasting-sky |
+| ![Happy Fisher](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Happy%20Fisher.png) | Happy Fisher | .gd--happy-fisher |
+| ![Blessing](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Blessing.png) | Blessing | .gd--blessing |
+| ![SharpeyeEagle](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Sharpeye%20Eagle.png) | Sharpeye Eagle | .gd--sharpeye-eagle |
+| ![Ladoga Bottom](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Ladoga%20Bottom.png) | Ladoga Bottom | .gd--ladoga-bottom |
+| ![Lemon Gate](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Lemon%20Gate.png) | Lemon Gate | .gd--lemon-gate |
+| ![Itmeo Branding](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Itmeo%20Branding.png) | ItmeoBranding | .gd--itmeo-branding |
+| ![Zeus Miracle](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Zeus%20Miracle.png) | Zeus Miracle | .gd--zeus-miracle |
+| ![Old Hat](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Old%20Hat.png) | Old Hat | .gd--old-hat |
+| ![Star Wine](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Star%20Wine.png) | Star Wine | .gd--star-wine |
+| ![Deep Blue](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Deep%20Blue.png) | Deep Blue | .gd--deep-blue |
+| ![Happy Acid](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Happy%20Acid.png) | Happy Acid | .gd--happy-acid |
+| ![Awesome Pine](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Awesome%20Pine.png) | Awesome Pine | .gd--awesome-pine |
+| ![New York](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/New%20York.png) | New York | .gd--new-york |
+| ![Shy Rainbow](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Shy%20Rainbow.png) | Shy Rainbow | .gd--shy-rainbow |
+| ![Loon Crest](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Loon%20Crest.png) | Loon Crest | .gd--loon-crest |
+| ![Mixed Hopes](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Mixed%20Hopes.png) | Mixed Hopes | .gd--mixed-hopes |
+| ![Fly High](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Fly%20High.png) | Fly High | .gd--fly-high |
+| ![Strong Bliss](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Strong%20Bliss.png) | Strong Bliss | .gd--strong-bliss |
+| ![Fresh Milk](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Fresh%20Milk.png) | Fresh Milk | .gd--fresh-milk |
+| ![Snow Again](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Snow%20Again.png) | Snow Again | .gd--snow-again |
+| ![February Ink](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/February%20Ink.png) | February Ink | .gd--february-ink |
+| ![Kind Steel](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Kind%20Steel.png) | Kind Steel | .gd--kind-steel |
+| ![Soft Grass](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Soft%20Grass.png) | Soft Grass | .gd--soft-grass |
+| ![Grown Early](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Grown%20Early.png) | Grown Early | .gd--grown-early |
+| ![Sharp Blues](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Sharp%20Blues.png) | Sharp Blues | .gd--sharp-blues |
+| ![Shady Water](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Shady%20Water.png) | Shady Water | .gd--shady-water |
+| ![Dirty Beauty](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Dirty%20Beauty.png) | Dirty Beauty | .gd--dirty-beauty |
+| ![Great Whale](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Great%20Whale.png) | Great Whale | .gd--great-whale |
+| ![Teen Notebook](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Teen%20Notebook.png) | Teen Notebook | .gd--teen-notebook |
+| ![Polite Rumors](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Polite%20Rumors.png) | Polite Rumors | .gd--polite-rumors |
+| ![Sweet Period](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Sweet%20Period.png) | Sweet Period | .gd--sweet-period |
+| ![Wide Matrix](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Wide%20Matrix.png) | Wide Matrix | .gd--wide-matrix |
+| ![Soft Cherish](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Soft%20Cherish.png) | Soft Cherish | .gd--soft-cherish |
+| ![Red Salvation](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Red%20Salvation.png) | Red Salvation | .gd--red-salvation |
+| ![Burning Spring](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Burning%20Spring.png) | Burning Spring | .gd--burning-spring |
+| ![Night Party](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Night%20Party.png) | Night Party | .gd--night-party |
+| ![Sky Glider](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Sky%20Glider.png) | Sky Glider | .gd--sky-glider |
+| ![Heaven Peach](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Heaven%20Peach.png) | Heaven Peach | .gd--heaven-peach |
+| ![Purple Division](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Purple%20Division.png) | Purple Division | .gd--purple-division |
+| ![Aqua Splash](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Aqua%20Splash.png) | Aqua Splash | .gd--aqua-splash |
+| ![Above Clouds](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Above%20Clouds.png) | Above Clouds | .gd--above-clouds |
+| ![Spiky Naga](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Spiky%20Naga.png) | Spiky Naga | .gd--spiky-naga |
+| ![Love Kiss](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Love%20Kiss.png) | Love Kiss | .gd--love-kiss |
+| ![Sharp Glass](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Sharp%20Glass.png) | Sharp Glass | .gd--sharp-glass |
+| ![Clean Mirror](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Clean%20Mirror.png) | Clean Mirror | .gd--clean-mirror |
+| ![Premium Dark](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Premium%20Dark.png) | Premium Dark | .gd--premium-dark |
+| ![Cold Evening](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Cold%20Evening.png) | Cold Evening | .gd--cold-evening |
+| ![Cochiti Lake](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Cochiti%20Lake.png) | Cochiti Lake | .gd--cochiti-lake |
+| ![Summer Games](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Summer%20Games.png) | Summer Games | .gd--summer-games |
+| ![Passionate Bed](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Passionate%20Bed.png) | Passionate Bed | .gd--passionate-bed |
+| ![Mountain Rock](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Mountain%20Rock.png) | Mountain Rock | .gd--mountain-rock |
+| ![Desert Hump](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Desert%20Hump.png) | Desert Hump | .gd--desert-hump |
+| ![Jungle Day](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Jungle%20Day.png) | Jungle Day | .gd--jungle-day |
+| ![Phoenix Start](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Phoenix%20Start.png) | Phoenix Start | .gd--phoenix-start |
+| ![October Silence](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/October%20Silence.png) | October Silence | .gd--october-silence |
+| ![Faraway River](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Faraway%20River.png) | Faraway River | .gd--faraway-river |
+| ![Alchemist Lab](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Alchemist%20Lab.png) | Alchemist Lab | .gd--alchemist-lab |
+| ![Over Sun](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Over%20Sun.png) | Over Sun | .gd--over-sun |
+| ![Premium White](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Premium%20White.png) | Premium White | .gd--premium-white |
+| ![Mars Party](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Mars%20Party.png) | Mars Party | .gd--mars-party |
+| ![Eternal Constance](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Eternal%20Constance.png) | Eternal Constance | .gd--eternal-constance |
+| ![Japan Blush](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Japan%20Blush.png) | Japan Blush | .gd--japan-blush |
+| ![Smiling Rain](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Smiling%20Rain.png) | Smiling Rain | .gd--smiling-rain |
+| ![Cloudy Apple](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Cloudy%20Apple.png) | Cloudy Apple | .gd--cloudy-apple |
+| ![Big Mango](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Big%20Mango.png) | Big Mango | .gd--big-mango |
+| ![Healthy Water](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Healthy%20Water.png) | Healthy Water | .gd--healthy-water |
+| ![Amour Amour](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Amour%20Amour.png) | Amour Amour | .gd--amour-amour |
+| ![Risky Concrete](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Risky%20Concrete.png) | Risky Concrete | .gd--risky-concrete |
+| ![Strong Stick](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Strong%20Stick.png) | Strong Stick | .gd--strong-stick |
+| ![Vicious Stance](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Vicious%20Stance.png) | Vicious Stance | .gd--vicious-stance |
+| ![Palo Alto](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Palo%20Alto.png) | Palo Alto | .gd--palo-alto |
+| ![Happy Memories](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Happy%20Memories.png) | Happy Memories | .gd--happy-memories |
+| ![Midnight Bloom](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Midnight%20Bloom.png) | Midnight Bloom | .gd--midnight-bloom |
+| ![Crystalline](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Crystalline.png) | Crystalline | .gd--crystalline |
+| ![Raccoon Back](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Raccoon%20Back.png) | Raccoon Back | .gd--raccoon-back |
+| ![Party Bliss](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Party%20Bliss.png) | Party Bliss | .gd--party-bliss |
+| ![Confident Cloud](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Confident%20Cloud.png) | Confident Cloud | .gd--confident-cloud |
+| ![Le Cocktail](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Le%20Cocktail.png) | Le Cocktail | .gd--le-cocktail |
+| ![River City](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/River%20City.png) | River City | .gd--river-city |
+| ![Frozen Berry](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Frozen%20Berry.png) | Frozen Berry | .gd--frozen-berry |
+| ![Elegance](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Elegance.png) | Elegance | .gd--elegance |
+| ![Child Care](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Child%20Care.png) | Child Care | .gd--child-care |
+| ![Flying Lemon](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Flying%20Lemon.png) | Flying Lemon | .gd--flying-lemon |
+| ![New Retrowave](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/New%20Retrowave.png) | New Retrowave | .gd--new-retrowave |
+| ![Hidden Jaguar](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Hidden%20Jaguar.png) | Hidden Jaguar | .gd--hidden-jaguar |
+| ![Above The Sky](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Above%20The%20Sky.png) | Above The Sky | .gd--above-the-sky |
+| ![Nega](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Nega.png) | Nega | .gd--nega |
+| ![Dense Water](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Dense%20Water.png) | Dense Water | .gd--dense-water |
+| ![Chemic Aqua](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Chemic%20Aqua.png) | Chemic Aqua | .gd--chemic-aqua |
+| ![Seashore](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Seashore.png) | Seashore | .gd--seashore |
+| ![Marble Wall](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Marble%20Wall.png) | Marble Wall | .gd--marble-wall |
+| ![Cheerful Caramel](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Cheerful%20Caramel.png) | Cheerful Caramel | .gd--cheerful-caramel |
+| ![Night Sky](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Night%20Sky.png) | Night Sky | .gd--night-sky |
+| ![Magic Lake](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Magic%20Lake.png) | Magic Lake | .gd--magic-lake |
+| ![Young Grass](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Young%20Grass.png) | Young Grass | .gd--young-grass |
+| ![Colorful Peach](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Colorful%20Peach.png) | Colorful Peach | .gd--colorful-peach |
+| ![Gentle Care](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Gentle%20Care.png) | Gentle Care | .gd--gentle-care |
+| ![Plum Bath](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Plum%20Bath.png) | Plum Bath | .gd--plum-bath |
+| ![Happy Unicorn](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Happy%20Unicorn.png) | Happy Unicorn | .gd--happy-unicorn |
+| ![Full Metal](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Full%20Metal.png) | Full Metal | .gd--full-metal |
+| ![African Field](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/African%20Field.png) | African Field | .gd--african-field |
+| ![Solid Stone](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Solid%20Stone.png) | Solid Stone | .gd--solid-stone |
+| ![Orange Juice](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Orange%20Juice.png) | Orange Juice | .gd--orange-juice |
+| ![Glass Water](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Glass%20Water.png) | Glass Water | .gd--glass-water |
+| ![Slick Carbon](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Slick%20Carbon.png) | Slick Carbon | .gd--slick-carbon |
+| ![North Miracle](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/North%20Miracle.png) | North Miracle | .gd--north-miracle |
+| ![Fruit Blend](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Fruit%20Blend.png) | Fruit Blend | .gd--fruit-blend |
+| ![Millennium Pine](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Millennium%20Pine.png) | Millennium Pine | .gd--millennium-pine |
+| ![High Flight](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/High%20Flight.png) | High Flight | .gd--high-flight |
+| ![Mole Hall](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Mole%20Hall.png) | Mole Hall | .gd--mole-hall |
+| ![Earl Gray](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Earl%20Gray.png) | Earl Gray | .gd--earl-gray |
+| ![Space Shift](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Space%20Shift.png) | Space Shift | .gd--space-shift |
+| ![Forest Inei](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Forest%20Inei.png) | Forest Inei | .gd--forest-inei |
+| ![Royal Garden](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Royal%20Garden.png) | Royal Garden | .gd--royal-garden |
+| ![Rich Metal](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Rich%20Metal.png) | Rich Metal | .gd--rich-metal |
+| ![Juicy Cake](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Juicy%20Cake.png) | Juicy Cake | .gd--juicy-cake |
+| ![Smart Indigo](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Smart%20Indigo.png) | Smart Indigo | .gd--smart-indigo |
+| ![Sand Strike](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Sand%20Strike.png) | Sand Strike | .gd--sand-strike |
+| ![Norse Beauty](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Norse%20Beauty.png) | Norse Beauty | .gd--norse-beauty |
+| ![Aqua Guidance](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Aqua%20Guidance.png) | Aqua Guidance | .gd--aqua-guidance |
+| ![Sun Veggie](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Sun%20Veggie.png) | Sun Veggie | .gd--sun-veggie |
+| ![Sea Lord](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Sea%20Lord.png) | Sea Lord | .gd--sea-lord |
+| ![Black Sea](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Black%20Sea.png) | Black Sea | .gd--black-sea |
+| ![Grass Shampoo](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Grass%20Shampoo.png) | Grass Shampoo | .gd--grass-shampoo |
+| ![Landing Aircraft](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Landing%20Aircraft.png) | Landing Aircraft | .gd--landing-aircraft |
+| ![Witch Dance](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Witch%20Dance.png) | Witch Dance | .gd--witch-dance |
+| ![Sleepless Night](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Sleepless%20Night.png) | Sleepless Night | .gd--sleepless-night |
+| ![Angel Care](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Angel%20Care.png) | Angel Care | .gd--angel-care |
+| ![Crystal River](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Crystal%20River.png) | Crystal River | .gd--crystal-river |
+| ![Soft Lipstick](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Soft%20Lipstick.png) | Soft Lipstick | .gd--soft-lipstick |
+| ![Salt Mountain](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Salt%20Mountain.png) | Salt Mountain | .gd--salt-mountain |
+| ![Perfect White](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Perfect%20White.png) | Perfect White | .gd--perfect-white |
+| ![Fresh Oasis](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Fresh%20Oasis.png) | Fresh Oasis | .gd--fresh-oasis |
+| ![Strict November](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Strict%20November.png) | Strict November | .gd--strict-november |
+| ![Morning Salad](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Morning%20Salad.png) | Morning Salad | .gd--morning-salad |
+| ![Deep Relief](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Deep%20Relief.png) | Deep Relief | .gd--deep-relief |
+| ![Sea Strike](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Sea%20Strike.png) | Sea Strike | .gd--sea-strike |
+| ![Night Call](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Night%20Call.png) | Night Call | .gd--night-call |
+| ![Supreme Sky](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Supreme%20Sky.png) | Supreme Sky | .gd--supreme-sky |
+| ![Light Blue](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Light%20Blue.png) | Light Blue | .gd--light-blue |
+| ![Mind Crawl](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Mind%20Crawl.png) | Mind Crawl | .gd--mind-crawl |
+| ![Lily Meadow](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Lily%20Meadow.png) | Lily Meadow | .gd--lily-meadow |
+| ![Sugar Lollipop](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Sugar%20Lollipop.png) | Sugar Lollipop | .gd--sugar-lollipop |
+| ![Sweet Dessert](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Sweet%20Dessert.png) | Sweet Dessert | .gd--sweet-dessert |
+| ![Magic Ray](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Magic%20Ray.png) | Magic Ray | .gd--magic-ray |
+| ![Teen Party](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Teen%20Party.png) | Teen Party | .gd--teen-party |
+| ![Frozen Heat](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Frozen%20Heat.png) | Frozen Heat | .gd--frozen-heat |
+| ![Gagarin View](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Gagarin%20View.png) | Gagarin View | .gd--gagarin-view |
+| ![Fabled Sunset](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Fabled%20Sunset.png) | Fabled Sunset | .gd--fabled-sunset |
+| ![Perfect Blue](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Perfect%20Blue.png) | Perfect Blue | .gd--perfect-blue |
+
+##
