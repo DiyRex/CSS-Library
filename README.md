@@ -7,7 +7,7 @@
 Via CDN :
 <br>
 ```sh
-<link rel="stylesheet" type="text/css" href="https://diyrex.github.io/CSS-Library/button.css">
+<link rel="stylesheet" type="text/css" href="https://diyrex.github.io/CSS-Library/colors.css">
 ```
 <br>
 Via CSS File :
@@ -23,7 +23,7 @@ Download the css file and include it in your project
 
 ```sh
 <button class="btn bg-darkred">Click me</button>
-<a href="#" class="btn bg-darkred">Click me</a>
+<a href="#" class="btn gd-warm-flame">Click me</a>
 ```
 <br>
 <br>
