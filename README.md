@@ -28,10 +28,12 @@ Download the css file and include it in your project
 <br>
 <br>
 
-## Color Table
-
+Pick class names according to the listed colors !
 <br>
+## Colors
 
+<details>
+<summary> Colors List </summary>
 
 | Color | Hexcode | Color Name | Classname |
 | --- | --- | --- | --- |
@@ -721,10 +723,17 @@ Download the css file and include it in your project
 | ![#FEFCFF](https://via.placeholder.com/15/FEFCFF/FEFCFF?text=+) | #FEFCFF | Milk White | bg-milk-white |
 | ![#FFFEFA](https://via.placeholder.com/15/FFFEFA/FFFEFA?text=+) | #FFFEFA | Half White | bg-half-white |
 | ![#FFFFFF](https://via.placeholder.com/15/FFFFFF/FFFFFF?text=+) | #FFFFFF | White | bg-white |
+  
+</details>
 
-
+<br>
 
 ## Gradients
+
+<details>
+<summary> Gradients List </summary>
+
+<br>
 
 | Gradient                                                                                                     | Name          | Classname          |
 | ------------------------------------------------------------------------------------------------------------ | ------------- | ------------------ |
@@ -908,4 +917,5 @@ Download the css file and include it in your project
 | ![Fabled Sunset](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Fabled%20Sunset.png) | Fabled Sunset | gd-fabled-sunset |
 | ![Perfect Blue](https://raw.githubusercontent.com/DiyRex/CSS-Library/buttons/gradients/Perfect%20Blue.png) | Perfect Blue | gd-perfect-blue |
 
-##
+</details>
+
