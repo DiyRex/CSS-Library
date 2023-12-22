@@ -35,6 +35,8 @@ Pick class names according to the listed colors !
 <details>
 <summary> Colors List </summary>
 
+<br>
+
 | Color | Hexcode | Color Name | Classname |
 | --- | --- | --- | --- |
 | ![#000000](https://via.placeholder.com/15/000000/000000?text=+) | #000000 | Black | bg-black |
