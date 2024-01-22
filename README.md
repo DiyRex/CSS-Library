@@ -56,7 +56,7 @@ Pick class names according to the listed colors !
 | ![#5C5858](https://via.placeholder.com/15/5C5858/5C5858?text=+) | #5C5858 | Gray Dolphin | bg-gray-dolphin |
 | ![#625D5D](https://via.placeholder.com/15/625D5D/625D5D?text=+) | #625D5D | Carbon Gray | bg-carbon-gray |
 | ![#666362](https://via.placeholder.com/15/666362/666362?text=+) | #666362 | Ash Gray | bg-ash-gray |
-| ![#696969](https://via.placeholder.com/15/696969/696969?text=+) | #696969 | Dim Gray or DimGrey | bg-dimgray |
+| ![#696969](https://via.placeholder.com/15/696969/696969?text=+) | #696969 | Dim Gray | bg-dimgray |
 | ![#686A6C](https://via.placeholder.com/15/686A6C/686A6C?text=+) | #686A6C | Nardo Gray | bg-nardo-gray |
 | ![#6D6968](https://via.placeholder.com/15/6D6968/6D6968?text=+) | #6D6968 | Cloudy Gray | bg-cloudy-gray |
 | ![#726E6D](https://via.placeholder.com/15/726E6D/726E6D?text=+) | #726E6D | Smokey Gray | bg-smokey-gray |
@@ -64,11 +64,11 @@ Pick class names according to the listed colors !
 | ![#757575](https://via.placeholder.com/15/757575/757575?text=+) | #757575 | Sonic Silver | bg-sonic-silver |
 | ![#797979](https://via.placeholder.com/15/797979/797979?text=+) | #797979 | Platinum Gray | bg-platinum-gray |
 | ![#837E7C](https://via.placeholder.com/15/837E7C/837E7C?text=+) | #837E7C | Granite | bg-granite |
-| ![#808080](https://via.placeholder.com/15/808080/808080?text=+) | #808080 | Gray or Grey | bg-gray-or-grey |
+| ![#808080](https://via.placeholder.com/15/808080/808080?text=+) | #808080 | Gray | bg-gray |
 | ![#848482](https://via.placeholder.com/15/848482/848482?text=+) | #848482 | Battleship Gray | bg-battleship-gray |
 | ![#8C8C8C](https://via.placeholder.com/15/8C8C8C/8C8C8C?text=+) | #8C8C8C | Dark Gainsboro | bg-dark-gainsboro |
 | ![#8D918D](https://via.placeholder.com/15/8D918D/8D918D?text=+) | #8D918D | Gunmetal Gray | bg-gunmetal-gray |
-| ![#A9A9A9](https://via.placeholder.com/15/A9A9A9/A9A9A9?text=+) | #A9A9A9 | DarkGray or DarkGrey | bg-darkgray |
+| ![#A9A9A9](https://via.placeholder.com/15/A9A9A9/A9A9A9?text=+) | #A9A9A9 | DarkGray | bg-darkgray |
 | ![#B6B6B4](https://via.placeholder.com/15/B6B6B4/B6B6B4?text=+) | #B6B6B4 | Gray Cloud | bg-gray-cloud |
 | ![#C0C0C0](https://via.placeholder.com/15/C0C0C0/C0C0C0?text=+) | #C0C0C0 | Silver | bg-silver |
 | ![#C9C0BB](https://via.placeholder.com/15/C9C0BB/C9C0BB?text=+) | #C9C0BB | Pale Silver | bg-pale-silver |
